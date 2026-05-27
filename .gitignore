@@ -160,3 +160,5 @@ xtra_benchmarking.ipynb
 *.faiss
 *.pkl
 
+.DS_Store
+**/.DS_Store
